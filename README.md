@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @andycraft
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning Python, Django, PostgreSQL
-- 📫 andy@andycraft.ru
+- 👋  Hi, I’m @andycraft
+- 👀  I’m interested in web-development
+- 🌱  I’m currently learning Python, Django, PostgreSQL
+- 📫  andy@andycraft.ru
 
 <!---
 andycraft/andycraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
